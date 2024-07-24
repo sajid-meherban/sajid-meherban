@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sajid</h1>
-<h3 align="center">A passionate frontend developer & Ui UX Designert From Pakistan</h3>
+<h1 align="left">Hi 👋, I'm Sajid</h1>
+<h3 align="left">A passionate frontend developer & Ui UX Designert From Pakistan</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://sajidali125.netlify.app/]([(https://sajidali.framer.website/))
